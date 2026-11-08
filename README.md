@@ -17,7 +17,7 @@ The engine and aesthetics have been completely overhauled to bring you a more im
 • Interactive Elements: Fully integrated collectibles, doors, keys, and an atmosphere packed with immersive sound effects and SFX.
 
 🎮 How to Play
-
+TEST IT HERE https://scratch.mit.edu/projects/1398125730/
 • Movement & Jumping: Use your Arrow Keys to navigate through the levels and jump across platforms.
 • Main Objective: Collect all the scattered apples and collectibles to clear your path.
 • The Lock & Key: Find and pick up the hidden key to unlock doors and pass safely through restricted platforms.
